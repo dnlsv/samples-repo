@@ -1,0 +1,4 @@
+# MS Visual Studio #
+.vs
+Debug/
+log.txt
