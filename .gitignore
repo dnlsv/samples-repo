@@ -1,4 +1,13 @@
 # MS Visual Studio #
 .vs
 Debug/
-log.txt
+Release/
+
+# Intellij IDEA #
+.idea
+out/
+target/
+*.iml
+
+# Output files #
+Out/

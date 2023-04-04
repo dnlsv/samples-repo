@@ -54,10 +54,6 @@ int main() {
     if (rc == SOCKET_ERROR)
     {
         cout << "Unable connect to server, rc = " << rc << endl;
-        //closesocket(ConnectSocket);
-        //ConnectSocket = INVALID_SOCKET;
-        //freeaddrinfo(addrResult);
-        //WSACleanup();
         clear(&ConnectSocket, INVALID_SOCKET, addrResult);
         return rc;
     }

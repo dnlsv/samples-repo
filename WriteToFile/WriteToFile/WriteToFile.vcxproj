@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{354f0646-c9ea-4765-83dc-0fea26ef5a9f}</ProjectGuid>
-    <RootNamespace>FileRecoding</RootNamespace>
+    <ProjectGuid>{96a33c14-92d5-4b08-97a1-0219b19e357d}</ProjectGuid>
+    <RootNamespace>WriteToFile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -148,10 +148,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Resources\input.txt" />
-    <Text Include="Resources\output.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

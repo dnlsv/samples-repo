@@ -8,6 +8,6 @@
 #define PCH_H
 
 // Добавьте сюда заголовочные файлы для предварительной компиляции
-#include "FunctionsLib.h"
+#include "funcs.h"
 
 #endif //PCH_H

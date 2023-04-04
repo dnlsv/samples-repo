@@ -1,3 +1,3 @@
 #pragma once
 
-#include "mathFunctions.h"
+#include "funcs.h"
