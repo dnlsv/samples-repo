@@ -3,6 +3,9 @@
 Debug/
 Release/
 
+# Visual Studio Code #
+.vscode
+
 # Intellij IDEA #
 .idea
 out/

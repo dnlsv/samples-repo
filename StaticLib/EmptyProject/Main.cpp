@@ -1,5 +1,5 @@
 #include <iostream>
-#include <pch.h>
+#include <funcs.h>
 
 using namespace std;
 
